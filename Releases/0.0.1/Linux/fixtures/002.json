@@ -1,0 +1,48 @@
+{
+    "settings":{
+        "name":"mini moving head",
+        "channels": 13,
+        "manufacturer":"Uking",
+	    "fixtureID":"002"
+    },
+    "channels":{
+        "1":{
+            "name":"position.pan",
+            "range":[0,255]
+        },
+        "2":{
+            "name":"position.tilt",
+            "range":[0,255]
+        },
+        "3":{
+            "name0":"intensity.master",
+            "range0":[0,134],
+            "name1:":"intensity.strobe",
+            "range1":[135,255]   
+        },
+        "4":{
+            "name":"colour.red",
+            "range":[0,255]
+        },
+        "5":{
+            "name":"colour.green",
+            "range":[0,255]
+        },
+        "6":{
+            "name":"colour.blue",
+            "range":[0,255]
+        },
+        "7":{
+            "name":"colour.white",
+            "range":[0,255]
+        },
+        "8":{
+            "name":"speed.move",
+            "range":[255,0]
+        },
+        "9":{
+            "name":"dmx.reset",
+            "range":[0,255]
+        }
+    }
+}

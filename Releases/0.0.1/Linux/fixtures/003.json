@@ -1,0 +1,46 @@
+{
+    "settings":{
+        "name":"Slimpar Pro Tri 9",
+        "channels": 9,
+        "manufacturer":"Chauvet",
+	    "fixtureID":"003"
+    },
+    "channels":{
+        "1":{
+            "name:":"intensity.master",
+            "range":[0,255]
+        },
+        "2":{
+            "name":"colour.red",
+            "range":[0,255]
+        },
+        "3":{
+            "name":"colour.green",
+            "range":[0,255]
+        },
+        "4":{
+            "name":"colour.blue",
+            "range":[0,255]
+        },
+        "5":{
+            "name":"colour.wheel",
+            "range":[0,255]
+        },
+        "6":{
+            "name":"intensity.strobe",
+            "range":[0,255]
+        },
+        "7":{
+            "name":"mode.auto",
+            "range":[0,255]
+        },
+        "8":{
+            "name":"speed.auto",
+            "range":[0,255]
+        },
+        "9":{
+            "name":"speed.intensity",
+            "range":[0,255]
+        }
+    }
+}

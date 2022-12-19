@@ -1,0 +1,14 @@
+{
+    "settings":{
+        "name":"Dimmer",
+        "channels": 1,
+        "manufacturer":"Generic",
+	    "fixtureID":"001w"
+    },
+    "channels":{
+        "1":{
+            "name":"intensity.master",
+            "range":[0,255]
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+	"settings":{
+		"name":"test_show",
+		"showFileID":"001"
+	},
+	"patch" :{
+		"universe_1":{
+			"1":{
+				"fileID":"002",
+				"showID":"001",
+				"showLabel":"leftWash"
+			}	
+		}
+	},
+	"cuelists":{
+		
+	},
+	"presets":{
+		
+	}
+}

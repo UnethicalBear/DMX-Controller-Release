@@ -1,0 +1,9 @@
+{
+    "connectedUniverses": 1,
+    "universes": {
+        "1": 3
+    },
+    "COMPORT": "COM4",
+    "FULLSCREEN": false,
+    "USEFADERPERCENTAGE":true
+}
