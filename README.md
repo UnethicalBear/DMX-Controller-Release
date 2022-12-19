@@ -7,8 +7,6 @@ This build is for linux and windows. The windows version includes a setup instal
 
 # 0.0.1 release notes:
 
-# 0.0.1 release for windows
-
 Warning! This is not a finished version. Bugs are highly likely. All sliders now send DMX values, *other than the strobe channel*. The windows installer.
 Bugs should be caught by a custom error dialog. If this occurs, please create an issue on this page, with what you were doing and the error dialog produced. The exception is a Port Error, which means the console is unreachable. DMX Controller requires the console to be plugged in to work properly. A demo version is coming soon.
 
