@@ -31,4 +31,4 @@ Bugs should be caught by a custom error dialog. If this occurs, please create an
 ## Releases
 
 - Windows is the target platform for this release, with a Linux version to follow. Please navigate through the directories to find the correct release.
-- There is currently no known minimum system requirements. Less than 1 GB of space is needed for the installation. There will be a way to list your system specs and the performance in the future to help us generate the required and recommended hardware, but it should be very low for the moment. 
+- There is currently no known minimum system requirements. Less than 50 MB of space is needed for the installation. There will be a way to list your system specs and the performance in the future to help us generate the required and recommended hardware, but it should be very low for the moment. 
